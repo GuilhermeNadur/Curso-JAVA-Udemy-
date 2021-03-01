@@ -1,6 +1,6 @@
 # Curso Java Completo
 
-Professor: Leonardo Moura Leitao
+Professor: Leonardo Moura Leitao (Arquiteto de Software)
 
 Carga horária: 77 horas
 
