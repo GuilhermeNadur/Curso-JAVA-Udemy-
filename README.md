@@ -1,6 +1,6 @@
 # Curso Java Completo
 
-Professor: Leonardo Moura Leitao (Arquiteto de Software)
+Professor: Leonardo Moura Leitão (Arquiteto de Software)
 
 Carga horária: 77 horas
 
@@ -14,6 +14,7 @@ Assuntos abordados:
 - Lambdas;
 - Stream API;
 - Tratamento de Exceções;
+- Swing;
 - JavaFX;
 - Banco de Dados Relacional;
 - Bando de Dados NÃO Relacional (NoSQL);
